@@ -67,3 +67,4 @@ void printStatus(int distance) {
   Serial.print(" cm | Servo Angle: ");
   Serial.println(servoPosition);
 }
+
