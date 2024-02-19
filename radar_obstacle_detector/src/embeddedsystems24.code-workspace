@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "radar_obstacle_detector",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"ros.distro": "humble"
+	}
+}
